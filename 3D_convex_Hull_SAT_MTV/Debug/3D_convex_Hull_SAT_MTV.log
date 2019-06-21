@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullsatmtv-mastervs2019\3d_convex_hull_sat_mtv\main.cpp(616): warning C4018: '<': signed/unsigned mismatch
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullsatmtv-mastervs2019\3d_convex_hull_sat_mtv\main.cpp(743): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\profiles\njp2424\desktop\physics\level9\physics-3d-convexhullsatmtv-mastervs2019\3d_convex_hull_sat_mtv\main.cpp(471): warning C4715: 'overlap': not all control paths return a value
+  3D_convex_Hull_SAT_MTV.vcxproj -> D:\Profiles\njp2424\Desktop\Physics\level9\physics-3D-ConvexHullSATMTV-masterVS2019\3D_convex_Hull_SAT_MTV\Debug\3D_convex_Hull_SAT_MTV.exe
